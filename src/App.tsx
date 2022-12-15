@@ -18,9 +18,9 @@ function App() {
         alt="Arkitektsbedriftene logo"
         className="w-full h-auto max-w-sm px-8 mb-16"
       />
-      <h2 className="mx-8 mb-8 text-2xl text-center">
+      <h1 className="mx-8 mb-8 text-2xl text-center">
         Egenerklæring for selvbygger
-      </h2>
+      </h1>
       {step < 4 && (
         <div className="flex gap-4 mb-8">
           <StepIndicator
