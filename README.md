@@ -14,6 +14,12 @@ Løsningen er deployet her: https://ab-tech-test.vercel.app/
 
 1. All koden i løsningen er min egen og ingenting er kopiert fra noe sted. Alle komponenter er implementert fra bunnen av, med unntak av Spinner.
 1. For å spare brukeren for tid har jeg automatisk oppslag på postnummer, som henter ut både poststed og kommune.
+1. I forhold til universell utforming har jeg gjort følgende
+   1. God heading-struktur.
+   1. Brukt native input-felter med tilhørende label og native knapper.
+   1. Brukt Description List til oppsummering.
+   1. Brukt mørk variant fra grafisk profil for å sørge for tilstrekkelig kontrast.
+   1. Gjort enkle tilpasninger til ulike skjermstørrelser.
 
 ## Potensielle forbedringer
 
@@ -29,3 +35,4 @@ Løsningen er deployet her: https://ab-tech-test.vercel.app/
 1. Kan style checkbox bedre.
 1. Visste ikke gode engelske navn for gnr., bnr., osv, så kan forbedre variabelnavnene.
 1. Bedre label og forklaring for "Dato for personlig ansvarsrett som selvbygger"
+1. Gi beskrivelse av ønsket format til skjermlesere (UU).
