@@ -6,7 +6,7 @@ Løsningen er deployet her: https://ab-tech-test.vercel.app/
 
 ## Forutsetninger
 
-1. Er ikke kjent med hvilke felter som er påkrevd eller hvordan dataen skal se ut. Har derfor ikke implementert felt-validering på akkurat dette steget.
+1. Er ikke kjent med hvilke felter på andre steg som er påkrevd eller hvordan dataen skal se ut. Har derfor ikke implementert felt-validering på akkurat dette steget.
 1. Styling er gjort i TailwindCSS for å forenkle arbeidet, men jeg er også meget komfortabel med å skrive CSS for hånd.
 
 ## Verdt å legge merke til
