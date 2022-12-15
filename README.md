@@ -6,6 +6,7 @@ Løsningen er deployet her: https://ab-tech-test.vercel.app/
 
 ## Forutsetninger
 
+1. Var usikker på om feltene øverst skulle være med, da dette ser ut som noe ansvarlig søker fyller ut. Disse er derfor utelatt.
 1. Er ikke kjent med hvilke felter på andre steg som er påkrevd eller hvordan dataen skal se ut. Har derfor ikke implementert felt-validering på akkurat dette steget.
 1. Styling er gjort i TailwindCSS for å forenkle arbeidet, men jeg er også meget komfortabel med å skrive CSS for hånd.
 
