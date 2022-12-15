@@ -133,7 +133,7 @@ const ConfirmStep = ({ address, more, onDone, onBack }: ConfirmStepProps) => {
             id="confirm"
             checked={confirm}
             onChange={(e) => setConfirm(e.target.checked)}
-            className="mt-1 mr-2"
+            className="flex-shrink-0 mt-1 mr-2"
           />
           <label
             htmlFor="confirm"
