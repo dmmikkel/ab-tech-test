@@ -1,3 +1,9 @@
+# Teknisk test for Arkitektbedriftene
+
+Utført av Dag Mikkelsen.
+
+Løsningen er deployet her: https://ab-tech-test.vercel.app/
+
 ## Forutsetninger
 
 1. Er ikke kjent med hvilke felter som er påkrevd eller hvordan dataen skal se ut. Har derfor ikke implementert felt-validering på akkurat dette steget.
